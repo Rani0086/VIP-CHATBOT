@@ -16,10 +16,9 @@ START = """**
 ๏ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ : {}
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
-╔═════════════════╗
+╔
 ║ ➻ ᴍʏ channel ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Planetsadala)  
-║ ➻ co owner➪ [plant ✯ goku](https://t.me/Planetsadala)                         
-╚═════════════════╝
+║ ➻ co owner➪ [plant ✯ goku](https://t.me/Planetsadala)                       
 **"""
 
 HELP_READ = f"""**
@@ -59,7 +58,7 @@ CHATBOT_READ = f"""**
 ──────────────
 /status - ᴄʜᴇᴄᴋ ᴄʜᴀᴛʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴏʀ ɴᴏᴛ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ʙᴏʏ](https://t.me/the_vip_boy) 💞**
+📡  💞**
 """
 
 SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ʙᴏʏ](https://t.me/the_vip_boy) 💞**||</b>"
