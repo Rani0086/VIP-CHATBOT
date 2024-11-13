@@ -17,7 +17,7 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT)                         
+║ ➻ ᴍʏ channel ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Planetsadala)                         
 ╚═════════════════╝
 
 
