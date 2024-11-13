@@ -50,11 +50,11 @@ EMOJIOS = [
     "🕊",
 ]
 
-BOT = "https://envs.sh/IL_.jpg"
+BOT = "https://files.catbox.moe/sbfpd4.jpg"
 IMG = [
-    "https://graph.org/file/210751796ff48991b86a3.jpg",
-    "https://graph.org/file/7b4924be4179f70abcf33.jpg",
-    "https://graph.org/file/f6d8e64246bddc26b4f66.jpg",
+    "https://files.catbox.moe/sbfpd4.jpg",
+    "https://files.catbox.moe/sbfpd4.jpg",
+    "https://files.catbox.moe/sbfpd4.jpg",
     "https://graph.org/file/63d3ec1ca2c965d6ef210.jpg",
     "https://graph.org/file/9f12dc2a668d40875deb5.jpg",
     "https://graph.org/file/0f89cd8d55fd9bb5130e1.jpg",
